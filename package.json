@@ -19,7 +19,6 @@
     "validator": "^9.1.2"
   },
   "scripts": {
-    "preinstall": "rm package-lock.json",
     "start": "npm run serve",
     "dev": "react-scripts start",
     "build": "react-scripts build",
